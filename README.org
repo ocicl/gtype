@@ -1,0 +1,10 @@
+* gtype
+
+C++/Julia-like parametric types in CL, based on CLtL2 extensions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/numcl/gtype.git   |
+| commit  | 2442e32  |
+| systems | gtype |
+|---------+-------------------------------------------|
+
